@@ -1,8 +1,9 @@
 # Sweet New Project
-this is cool project
+this is cool project, check it out [here] https://chunjiaouyang.github.io/gittest/
 
-## This is a heading2
+## index.html
 
-Isn't that nice?
+this is index html
 
 ## Style.css
+this is style css
